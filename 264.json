@@ -1,0 +1,33 @@
+{
+    "name": "NFT #264",
+    "symbol": "DCWTF",
+    "description": "999 WTF's building an official web3 Game on Solana. Giving back 90% of profits to holders.",
+    "seller_fee_basis_points": 1000,
+    "image": "/264.gif",
+    "external_url": "",
+    "collection": {
+        "name": "Degen Crash WTF",
+        "family": "LaunchMyNFT"
+    },
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "common"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "/264.gif",
+                "type": "image/gif"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "48mJht93rWcx4Gifr7uVwQBFESBYf27pif8WDdFS9uRm",
+                "share": 100
+            }
+        ]
+    }
+}
